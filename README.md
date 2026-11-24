@@ -6,7 +6,7 @@ Contaminated Ancestors: Seven Ways Our Own Evaluation Protocol Nearly Told Us th
 
 We built an AI tool to catch errors in reconstructed ancient proteins, then checked whether it actually worked. It didn't, and our own testing process nearly hid that.
 
-Experiment is complete · Co-Authored Paper Accepted @ NeurIPS 2026 Workshop: Trust-AI-Eval (TAE) · [Read the paper](docs/paper.pdf)
+Experiment is complete · Co-Authored Paper Accepted @ NeurIPS 2026 Workshop: Trust-AI-Eval (TAE) - only all-high-school author team out of 226 accepted TAE papers (0.44%) · [Read the paper](docs/paper.pdf)
 
 </div>
 
